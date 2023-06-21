@@ -14,7 +14,7 @@ Before running the application, make sure you have the following dependencies in
 ## Installation
 To install the application, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/url-redirector.git`
+1. Clone the repository: `https://github.com/imad-elbouhati/url-redirector.git`
 2. Change to the project directory: `cd url-redirector`
 3. Install the necessary dependencies: `go get gopkg.in/yaml.v2`
 
